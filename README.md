@@ -26,3 +26,15 @@
 | Seed inicial: Inserção de dados representativos (mais de 100 cartas únicas) para testes e demonstrações.
 
 --------------------------------------
+
+| Principais Resultados e Insights Obtidos:
+
+| Estrutura normalizada: Redução de redundância ao separar tipos e estágios.
+
+| Consultas simplificadas: A view vw_cards_detailed permite acessar dados completos sem necessidade de múltiplos joins.
+
+| Dataset robusto: Foram inseridas mais de 100 cartas únicas, cobrindo diferentes coleções e Pokémon, permitindo análises mais realistas.
+
+| Escalabilidade: O modelo suporta expansão para todas as gerações de Pokémon TCG sem necessidade de grandes alterações estruturais.
+
+--------------------------------------
