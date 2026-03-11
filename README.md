@@ -12,3 +12,17 @@
 | Facilitar consultas detalhadas, como visualizar todas as cartas com seus atributos e nomes de coleções, tipos e estágios.
 
 --------------------------------------
+
+| Processo de Análise e Aprendizado: 
+
+| Levantamento de requisitos: Identificação das entidades principais (cartas e coleções) e atributos relevantes (HP, ataque, fraqueza, etc.).
+
+| Normalização: Separação de informações repetitivas em tabelas auxiliares (tbl_types, tbl_stages).
+
+| Definição de chaves primárias e estrangeiras: Garantindo integridade e relacionamentos claros.
+
+| Criação de uma view (vw_cards_detailed): Para simplificar consultas e trazer dados já resolvidos com nomes descritivos.
+
+| Seed inicial: Inserção de dados representativos (mais de 100 cartas únicas) para testes e demonstrações.
+
+--------------------------------------
